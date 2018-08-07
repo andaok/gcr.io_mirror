@@ -1,3 +1,11 @@
+## 2018-08-07 18:08 
+
+[gcr.io/istio-release/proxy_debug:0.6.0-pre20180204-09-15-00](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:master-20180720-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
 ## 2018-08-06 01:17 
 
 [gcr.io/google-samples/ml-pipeline-dataflow-tfma-taxi:latest](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-dataflow-tfma-taxi/tags/)
