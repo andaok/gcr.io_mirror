@@ -360,3 +360,9 @@
 [gcr.io/spinnaker-marketplace/deck:2.4.0-20180803172341](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180807022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180807130903](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+

@@ -837,6 +837,9 @@
 [gcr.io/istio-release/app:master-20180805-15-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
+[gcr.io/istio-release/app:master-20180806-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
 [gcr.io/istio-release/app:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
@@ -1153,6 +1156,12 @@
 
 
 [gcr.io/istio-release/app:release-1.0-20180805-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
+[gcr.io/istio-release/app:release-1.0-20180806-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
+[gcr.io/istio-release/app:release-1.0-20180807-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
 [gcr.io/istio-release/app:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)

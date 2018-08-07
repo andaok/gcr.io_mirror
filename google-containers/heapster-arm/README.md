@@ -57,3 +57,6 @@
 [gcr.io/google-containers/heapster-arm:v1.5.4](https://hub.docker.com/r/anjia0532/google-containers.heapster-arm/tags/)
 
 
+[gcr.io/google-containers/heapster-arm:v1.6.0-beta.1](https://hub.docker.com/r/anjia0532/google-containers.heapster-arm/tags/)
+
+

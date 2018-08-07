@@ -54,3 +54,6 @@
 [gcr.io/google-containers/heapster-ppc64le:v1.5.4](https://hub.docker.com/r/anjia0532/google-containers.heapster-ppc64le/tags/)
 
 
+[gcr.io/google-containers/heapster-ppc64le:v1.6.0-beta.1](https://hub.docker.com/r/anjia0532/google-containers.heapster-ppc64le/tags/)
+
+
