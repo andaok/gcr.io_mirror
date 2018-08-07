@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-08-07 16:42 UTC]
+Google Container Registry Mirror [last sync 2018-08-07 17:20 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -69,7 +69,7 @@ done
 [Changelog](./CHANGES.md)
 -------
 
-Mirror 9 namespaces image from gcr.io
+Mirror 10 namespaces image from gcr.io
 -----
 
 
@@ -98,5 +98,8 @@ Mirror 9 namespaces image from gcr.io
 
 
 [gcr.io/istio-release/*](./istio-release/README.md)
+
+
+[gcr.io/linkerd-io/*](./linkerd-io/README.md)
 
 
