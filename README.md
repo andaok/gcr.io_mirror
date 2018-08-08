@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-08-07 20:23 UTC]
+Google Container Registry Mirror [last sync 2018-08-08 00:53 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -14,6 +14,14 @@ anjia0532/namespace.image_name:image_tag
 # special
 k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> anjia0532/google-containers.{image}/{tag}
 ```
+
+Add new namespace
+-------
+[Fork and edit sync branch file gcr_namespaces](https://github.com/anjia0532/gcr.io_mirror/edit/sync/gcr_namespaces)
+
+append new line about namespace(e.g. `gcr.io/google-containers`  u should append `google-containers`,`k8s.gcr.io` eq `gcr.io/google-containers`)
+
+save and commit a PR for this repo.
 
 Example
 -------

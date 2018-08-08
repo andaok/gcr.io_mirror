@@ -6,6 +6,9 @@
 [gcr.io/linkerd-io/web:dev-3c29356b-thomas](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:dev-511549e1-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-01cc30d1](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
@@ -54,6 +57,9 @@
 [gcr.io/linkerd-io/web:git-4470c8fb](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:git-4845b4ec](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-4b970093](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
@@ -73,6 +79,9 @@
 
 
 [gcr.io/linkerd-io/web:git-5963fe7c](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:git-5d01779d](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:git-7467e36b](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
@@ -108,10 +117,16 @@
 [gcr.io/linkerd-io/web:git-a8acad69](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:git-a977fb6b](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-a98bfb1c](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:git-ac812a08](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:git-ac94c62c](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:git-ad638384](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
@@ -135,6 +150,9 @@
 [gcr.io/linkerd-io/web:git-dcb9c550](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:git-e0a01c5d](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-e0ba41b9](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
@@ -156,10 +174,16 @@
 [gcr.io/linkerd-io/web:git-f70ad7de](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:git-f738d7c3](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-f79a40a3](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:git-fef89601](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:master](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:v18.7.1](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)

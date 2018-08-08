@@ -54,6 +54,9 @@
 [gcr.io/linkerd-io/cli-bin:git-4470c8fb](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:git-4845b4ec](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-4b970093](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
@@ -73,6 +76,9 @@
 
 
 [gcr.io/linkerd-io/cli-bin:git-5963fe7c](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:git-5d01779d](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:git-7467e36b](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
@@ -108,10 +114,16 @@
 [gcr.io/linkerd-io/cli-bin:git-a8acad69](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:git-a977fb6b](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-a98bfb1c](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:git-ac812a08](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:git-ac94c62c](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:git-ad638384](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
@@ -135,6 +147,9 @@
 [gcr.io/linkerd-io/cli-bin:git-dcb9c550](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:git-e0a01c5d](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-e0ba41b9](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
@@ -156,10 +171,16 @@
 [gcr.io/linkerd-io/cli-bin:git-f70ad7de](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:git-f738d7c3](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-f79a40a3](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:git-fef89601](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:master](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:v18.7.1](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)

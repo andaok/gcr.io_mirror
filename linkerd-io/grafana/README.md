@@ -54,6 +54,9 @@
 [gcr.io/linkerd-io/grafana:git-4470c8fb](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-4845b4ec](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-4b970093](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -73,6 +76,9 @@
 
 
 [gcr.io/linkerd-io/grafana:git-5963fe7c](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-5d01779d](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-7467e36b](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
@@ -105,10 +111,16 @@
 [gcr.io/linkerd-io/grafana:git-a8acad69](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-a977fb6b](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-a98bfb1c](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-ac812a08](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-ac94c62c](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-bd19e8aa](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
@@ -129,6 +141,9 @@
 [gcr.io/linkerd-io/grafana:git-dcb9c550](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-e0a01c5d](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-e196e1af](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -144,10 +159,16 @@
 [gcr.io/linkerd-io/grafana:git-f70ad7de](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-f738d7c3](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-f79a40a3](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-fef89601](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:master](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:proxy-challenge](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
