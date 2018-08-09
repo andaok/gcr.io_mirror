@@ -1068,6 +1068,9 @@
 [gcr.io/istio-release/grafana:release-1.0-20180807-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 
+[gcr.io/istio-release/grafana:release-1.0-20180808-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
+
+
 [gcr.io/istio-release/grafana:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 

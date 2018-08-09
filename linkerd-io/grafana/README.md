@@ -75,6 +75,9 @@
 [gcr.io/linkerd-io/grafana:git-565c1dad](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-56681015](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-5963fe7c](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -103,6 +106,9 @@
 
 
 [gcr.io/linkerd-io/grafana:git-9bb4ecb0](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-9d8f58cb](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-a44e2e59](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
@@ -156,6 +162,9 @@
 [gcr.io/linkerd-io/grafana:git-ec3c8617](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-f510d7ea](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-f70ad7de](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -178,6 +187,9 @@
 
 
 [gcr.io/linkerd-io/grafana:v18.7.3](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:v18.8.1](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:ver-dst-proto-hint.0](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)

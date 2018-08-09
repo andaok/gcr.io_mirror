@@ -114,6 +114,12 @@
 [gcr.io/google-containers/kube-proxy:v1.11.2-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
 
 
+[gcr.io/google-containers/kube-proxy:v1.11.2](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
+
+
+[gcr.io/google-containers/kube-proxy:v1.11.3-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
+
+
 [gcr.io/google-containers/kube-proxy:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
 
 

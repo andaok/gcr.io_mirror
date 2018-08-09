@@ -81,6 +81,9 @@
 [gcr.io/linkerd-io/proxy:git-565c1dad](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
+[gcr.io/linkerd-io/proxy:git-56681015](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
 [gcr.io/linkerd-io/proxy:git-5963fe7c](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
@@ -109,6 +112,9 @@
 
 
 [gcr.io/linkerd-io/proxy:git-9bb4ecb0](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
+[gcr.io/linkerd-io/proxy:git-9d8f58cb](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
 [gcr.io/linkerd-io/proxy:git-a44e2e59](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
@@ -168,6 +174,9 @@
 [gcr.io/linkerd-io/proxy:git-f04751b1-io-pool](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
+[gcr.io/linkerd-io/proxy:git-f510d7ea](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
 [gcr.io/linkerd-io/proxy:git-f61494c8-threadpool](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
@@ -187,6 +196,9 @@
 
 
 [gcr.io/linkerd-io/proxy:liza-log](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
+[gcr.io/linkerd-io/proxy:liza-parking-lot](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
 [gcr.io/linkerd-io/proxy:liza-router-capacity](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
@@ -238,6 +250,9 @@
 
 
 [gcr.io/linkerd-io/proxy:v18.7.3](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
+[gcr.io/linkerd-io/proxy:v18.8.1](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
 [gcr.io/linkerd-io/proxy:ver-2018-08-03.0](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)

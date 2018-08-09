@@ -1080,6 +1080,9 @@
 [gcr.io/istio-release/mixer:release-1.0-20180807-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
+[gcr.io/istio-release/mixer:release-1.0-20180808-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
 [gcr.io/istio-release/mixer:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
