@@ -6,6 +6,15 @@
 [gcr.io/linkerd-io/grafana:dev-3c29356b-thomas](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:dev-fa490473-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-00a05720](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-01cc30d1](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -43,6 +52,9 @@
 
 
 [gcr.io/linkerd-io/grafana:git-37f8490e](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-38c4b293](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-3c29356b](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)

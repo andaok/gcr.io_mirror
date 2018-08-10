@@ -999,6 +999,9 @@
 [gcr.io/istio-release/sidecar_injector:release-1.0-20180808-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
 
 
+[gcr.io/istio-release/sidecar_injector:release-1.0-20180809-23-37](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
+
+
 [gcr.io/istio-release/sidecar_injector:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
 
 

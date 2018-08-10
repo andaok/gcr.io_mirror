@@ -6,6 +6,15 @@
 [gcr.io/linkerd-io/cli-bin:dev-3c29356b-thomas](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:dev-fa490473-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:git-00a05720](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-01cc30d1](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
@@ -43,6 +52,9 @@
 
 
 [gcr.io/linkerd-io/cli-bin:git-37f8490e](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:git-38c4b293](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:git-3c29356b](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
@@ -187,6 +199,12 @@
 
 
 [gcr.io/linkerd-io/cli-bin:git-fef89601](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:liza-src-meta-2](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:liza-src-meta](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:master](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)

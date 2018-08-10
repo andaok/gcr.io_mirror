@@ -342,3 +342,6 @@
 [gcr.io/istio-release/test_policybackend:release-1.0-20180808-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
+[gcr.io/istio-release/test_policybackend:release-1.0-20180809-23-37](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+

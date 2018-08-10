@@ -684,6 +684,9 @@
 [gcr.io/istio-release/citadel:release-1.0-20180808-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
 
 
+[gcr.io/istio-release/citadel:release-1.0-20180809-23-37](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
+
+
 [gcr.io/istio-release/citadel:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
 
 

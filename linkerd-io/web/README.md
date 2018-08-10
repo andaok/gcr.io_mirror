@@ -9,6 +9,15 @@
 [gcr.io/linkerd-io/web:dev-511549e1-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:dev-fa490473-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:git-00a05720](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-01cc30d1](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
@@ -46,6 +55,9 @@
 
 
 [gcr.io/linkerd-io/web:git-37f8490e](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:git-38c4b293](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:git-3c29356b](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
@@ -190,6 +202,12 @@
 
 
 [gcr.io/linkerd-io/web:git-fef89601](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:liza-src-meta-2](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:liza-src-meta](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:master](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)

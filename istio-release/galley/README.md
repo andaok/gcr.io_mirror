@@ -678,6 +678,9 @@
 [gcr.io/istio-release/galley:release-1.0-20180808-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
+[gcr.io/istio-release/galley:release-1.0-20180809-23-37](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
 [gcr.io/istio-release/galley:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
