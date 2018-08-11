@@ -222,3 +222,6 @@
 [gcr.io/spinnaker-marketplace/echo:2.0.0-20180807022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 
+[gcr.io/spinnaker-marketplace/echo:2.0.0-20180810022810](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+

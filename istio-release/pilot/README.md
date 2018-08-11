@@ -1170,6 +1170,9 @@
 [gcr.io/istio-release/pilot:release-1.0-20180809-23-37](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
+[gcr.io/istio-release/pilot:release-1.0-20180810-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
 [gcr.io/istio-release/pilot:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
