@@ -9082,3 +9082,20 @@
 [gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180815162654](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 
+## 2018-08-20 14:21 
+
+[gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180818022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gpu:commit-20dd47a216955673945ac752ad5b8ad38260208f](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gateway:commit-ab51f8e13b6448c1db67e0717419e132a8ec912a](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gpu:local-20170902](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gpu:commit-7188cdfba09855ae425a4b0b21cbd2ebdd7a4729](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
