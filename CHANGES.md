@@ -1,3 +1,8 @@
+## 2018-08-20 03:33 
+
+[gcr.io/cloud-datalab/datalab:local-20160814](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
+
+
 ## 2018-08-12 01:27 
 
 [gcr.io/istio-release/node-agent:release-1.0-20180811-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)

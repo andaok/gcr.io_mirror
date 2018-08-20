@@ -837,6 +837,9 @@
 [gcr.io/istio-release/proxy_debug:master-20180811-15-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
+[gcr.io/istio-release/proxy_debug:master-20180812-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
 [gcr.io/istio-release/proxy_debug:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
@@ -1177,6 +1180,9 @@
 
 
 [gcr.io/istio-release/proxy_debug:release-1.0-20180811-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:release-1.0-20180812-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
 [gcr.io/istio-release/proxy_debug:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
