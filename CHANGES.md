@@ -10736,3 +10736,11 @@
 [gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20170608_1146_RC05](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
 
 
+## 2018-08-24 14:15 
+
+[gcr.io/cloud-datalab/datalab-gpu:commit-52ea0abf1f0a95b1a3165b7cf958c4f6a537238f](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gpu:local-20170915](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
