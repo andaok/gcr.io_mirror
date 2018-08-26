@@ -1656,3 +1656,9 @@
 [gcr.io/spinnaker-marketplace/halyard:1.7.0-20180809030509](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:1.7.0-20180815030511](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.7.0-20180818030510](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+

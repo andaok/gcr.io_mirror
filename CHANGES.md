@@ -1,3 +1,8 @@
+## 2018-08-26 08:18 
+
+[gcr.io/cloud-datalab/datalab-gpu:local-20171030](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
 ## 2018-08-20 03:33 
 
 [gcr.io/cloud-datalab/datalab:local-20160814](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)

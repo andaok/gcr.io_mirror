@@ -3,7 +3,13 @@
 -----
 
 
+[gcr.io/linkerd-io/go-deps:01fcd591](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
+
+
 [gcr.io/linkerd-io/go-deps:0f0f2e2d](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
+
+
+[gcr.io/linkerd-io/go-deps:26c23978](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
 
 
 [gcr.io/linkerd-io/go-deps:34096b37](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)

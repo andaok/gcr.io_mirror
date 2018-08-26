@@ -24,6 +24,11 @@
 
 
 
+[gcr.io/linkerd-io/grafana-perf](https://hub.docker.com/r/anjia0532/linkerd-io.grafana-perf/tags/)
+-----
+
+
+
 [gcr.io/linkerd-io/nginx-with-curl](https://hub.docker.com/r/anjia0532/linkerd-io.nginx-with-curl/tags/)
 -----
 
@@ -40,6 +45,11 @@
 
 
 [gcr.io/linkerd-io/proxy-timeline](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-timeline/tags/)
+-----
+
+
+
+[gcr.io/linkerd-io/reporter](https://hub.docker.com/r/anjia0532/linkerd-io.reporter/tags/)
 -----
 
 

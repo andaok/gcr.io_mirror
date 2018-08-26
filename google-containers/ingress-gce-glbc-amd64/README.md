@@ -39,3 +39,6 @@
 [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.2.3](https://hub.docker.com/r/anjia0532/google-containers.ingress-gce-glbc-amd64/tags/)
 
 
+[gcr.io/google-containers/ingress-gce-glbc-amd64:v1.3.0](https://hub.docker.com/r/anjia0532/google-containers.ingress-gce-glbc-amd64/tags/)
+
+

@@ -684,6 +684,9 @@
 [gcr.io/cloud-datalab/datalab:commit-2bc181a47073e17a34bc1e78efb77817a625d9e4](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
+[gcr.io/cloud-datalab/datalab:commit-2bccee3cb5506fb4bddb3ec85942acb086f44021](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
+
+
 [gcr.io/cloud-datalab/datalab:commit-2d040f3445becd03723092c9e200c46f61b5553a](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
@@ -1054,6 +1057,9 @@
 
 
 [gcr.io/cloud-datalab/datalab:commit-aa41a586ecd98b9ed4e4b5b99905e8c0a6255afe](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
+
+
+[gcr.io/cloud-datalab/datalab:commit-ab51f8e13b6448c1db67e0717419e132a8ec912a](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
 [gcr.io/cloud-datalab/datalab:commit-ab7a6098354622d57f73d50f59566014b401e5e6](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
