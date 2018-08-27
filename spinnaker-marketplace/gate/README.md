@@ -153,6 +153,9 @@
 [gcr.io/spinnaker-marketplace/gate:1.0.0-20180621022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
 
 
+[gcr.io/spinnaker-marketplace/gate:1.0.0-20180824153529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
 [gcr.io/spinnaker-marketplace/gate:1.1.0-20180623022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
 
 

@@ -81,6 +81,9 @@
 [gcr.io/spinnaker-marketplace/rosco:0.5.0-20180221133510](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
 
 
+[gcr.io/spinnaker-marketplace/rosco:0.5.0-20180824153529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
 [gcr.io/spinnaker-marketplace/rosco:0.6.0-20180304012806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
 
 

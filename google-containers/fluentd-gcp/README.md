@@ -186,6 +186,9 @@
 [gcr.io/google-containers/fluentd-gcp:2.0.17](https://hub.docker.com/r/anjia0532/google-containers.fluentd-gcp/tags/)
 
 
+[gcr.io/google-containers/fluentd-gcp:2.0.18](https://hub.docker.com/r/anjia0532/google-containers.fluentd-gcp/tags/)
+
+
 [gcr.io/google-containers/fluentd-gcp:2.0.1](https://hub.docker.com/r/anjia0532/google-containers.fluentd-gcp/tags/)
 
 

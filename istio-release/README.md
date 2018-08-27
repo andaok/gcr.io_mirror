@@ -64,6 +64,11 @@
 
 
 
+[gcr.io/istio-release/node-agent-k8s](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+-----
+
+
+
 [gcr.io/istio-release/node-agent-test](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
 -----
 

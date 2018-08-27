@@ -555,6 +555,9 @@
 [gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180713_1617_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
+[gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180820_0931_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
+
+
 [gcr.io/cloud-datalab/datalab:cloud-shell](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
@@ -1000,6 +1003,9 @@
 
 
 [gcr.io/cloud-datalab/datalab:commit-9b3506f8cf26d3e2e9ec30aad63eae674f40f3ea](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
+
+
+[gcr.io/cloud-datalab/datalab:commit-9b930986236944986c1657163b8f428bd66d3407](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
 [gcr.io/cloud-datalab/datalab:commit-9beb62fc7df907f4b02c701051aaa5d4167b5884](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)

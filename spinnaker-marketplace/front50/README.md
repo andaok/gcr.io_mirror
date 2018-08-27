@@ -96,6 +96,12 @@
 [gcr.io/spinnaker-marketplace/front50:0.12.1-20180815162654](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
 
 
+[gcr.io/spinnaker-marketplace/front50:0.13.0-20180822194424](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
+
+
+[gcr.io/spinnaker-marketplace/front50:0.13.0-20180823154945](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
+
+
 [gcr.io/spinnaker-marketplace/front50:0.4.0-33](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
 
 
@@ -172,5 +178,8 @@
 
 
 [gcr.io/spinnaker-marketplace/front50:0.9.0-20180221133510](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
+
+
+[gcr.io/spinnaker-marketplace/front50:0.9.0-20180824153529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
 
 
