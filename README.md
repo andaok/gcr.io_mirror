@@ -1,7 +1,7 @@
-Google Container Registry Mirror [last sync 2018-08-27 15:58 UTC]
+Google Container Registry Mirror [last sync 2018-08-27 08:07 UTC]
 -------
 
-[![Sync Status](https://travis-ci.org/${user_name}/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/${user_name}/gcr.io_mirror)
+[![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
 Syntax
 -------
@@ -9,10 +9,10 @@ Syntax
 ```bash
 gcr.io/namespace/image_name:image_tag 
 #eq
-${user_name}/namespace.image_name:image_tag
+anjia0532/namespace.image_name:image_tag
 
 # special
-k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> ${user_name}/google-containers.{image}/{tag}
+k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> anjia0532/google-containers.{image}/{tag}
 ```
 
 Add new namespace
@@ -28,7 +28,7 @@ Example
 
 ```bash
 
-docker pull ${user_name}/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1
+docker pull anjia0532/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1
 # eq
 docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
 
@@ -37,14 +37,14 @@ docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-
 docker pull k8s.gcr.io/federation-controller-manager-arm64:v1.3.1-beta.1
 ```
 
-ReTag ${user_name} images to gcr.io 
+ReTag anjia0532 images to gcr.io 
 -------
 
 ```bash
 # replace gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 to real image
 # this will convert gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
-# to ${user_name}/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1 and pull it
-# k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> ${user_name}/google-containers.{image}/{tag}
+# to anjia0532/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1 and pull it
+# k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> anjia0532/google-containers.{image}/{tag}
 
 images=$(cat img.txt)
 #or 
@@ -56,16 +56,16 @@ images=$(cat img.txt)
 #)
 
 eval $(echo ${images}|
-        sed 's/k8s\.gcr\.io/${user_name}\/google-containers/g;s/gcr\.io/${user_name}/g;s/\//\./g;s/ /\n/g;s/${user_name}\./${user_name}\//g' |
+        sed 's/k8s\.gcr\.io/anjia0532\/google-containers/g;s/gcr\.io/anjia0532/g;s/\//\./g;s/ /\n/g;s/anjia0532\./anjia0532\//g' |
         uniq |
         awk '{print "docker pull "$1";"}'
        )
 
-# this code will retag all of ${user_name}'s image from local  e.g. ${user_name}/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1 
+# this code will retag all of anjia0532's image from local  e.g. anjia0532/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1 
 # to gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1
-# k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> ${user_name}/google-containers.{image}/{tag}
+# k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> anjia0532/google-containers.{image}/{tag}
 
-for img in $(docker images --format "{{.Repository}}:{{.Tag}}"| grep "${user_name}"); do
+for img in $(docker images --format "{{.Repository}}:{{.Tag}}"| grep "anjia0532"); do
   n=$(echo ${img}| awk -F'[/.:]' '{printf "gcr.io/%s",$2}')
   image=$(echo ${img}| awk -F'[/.:]' '{printf "/%s",$3}')
   tag=$(echo ${img}| awk -F'[:]' '{printf ":%s",$2}')
