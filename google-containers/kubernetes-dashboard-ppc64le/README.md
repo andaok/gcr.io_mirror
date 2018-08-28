@@ -15,6 +15,9 @@
 [gcr.io/google-containers/kubernetes-dashboard-ppc64le:v1.0.1](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kubernetes-dashboard-ppc64le:v1.10.0](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kubernetes-dashboard-ppc64le:v1.1.0-beta1](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-ppc64le/tags/)
 
 

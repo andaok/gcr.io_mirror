@@ -144,3 +144,6 @@
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.8.1-20180824182307](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.8.1-20180827135522](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+

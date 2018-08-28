@@ -474,6 +474,9 @@
 [gcr.io/istio-release/mixer:collab-gcp-identity-20180826-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
+[gcr.io/istio-release/mixer:collab-gcp-identity-20180827-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
 [gcr.io/istio-release/mixer:latest_daily](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
@@ -814,6 +817,9 @@
 
 
 [gcr.io/istio-release/mixer:master-20180826-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
+[gcr.io/istio-release/mixer:master-20180827-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
 [gcr.io/istio-release/mixer:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
@@ -1204,6 +1210,9 @@
 
 
 [gcr.io/istio-release/mixer:release-1.0-20180826-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
+[gcr.io/istio-release/mixer:release-1.0-20180827-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
 [gcr.io/istio-release/mixer:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
