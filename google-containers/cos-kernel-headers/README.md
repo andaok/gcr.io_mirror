@@ -18,3 +18,6 @@
 [gcr.io/google-containers/cos-kernel-headers:20180827-R00-00](https://hub.docker.com/r/anjia0532/google-containers.cos-kernel-headers/tags/)
 
 
+[gcr.io/google-containers/cos-kernel-headers:20180829-R00-00](https://hub.docker.com/r/anjia0532/google-containers.cos-kernel-headers/tags/)
+
+

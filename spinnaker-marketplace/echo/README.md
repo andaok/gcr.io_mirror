@@ -270,3 +270,6 @@
 [gcr.io/spinnaker-marketplace/echo:2.1.0-20180827165259](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 
+[gcr.io/spinnaker-marketplace/echo:2.1.0-20180828022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+

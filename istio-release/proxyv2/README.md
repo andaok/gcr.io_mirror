@@ -117,6 +117,9 @@
 [gcr.io/istio-release/proxyv2:1.0.1](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
 
 
+[gcr.io/istio-release/proxyv2:1.1.0.snapshot.0](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
 [gcr.io/istio-release/proxyv2:collab-gcp-identity-20180824-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
 
 
@@ -127,6 +130,12 @@
 
 
 [gcr.io/istio-release/proxyv2:collab-gcp-identity-20180827-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/istio-release/proxyv2:collab-gcp-identity-20180828-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/istio-release/proxyv2:collab-gcp-identity-20180829-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
 
 
 [gcr.io/istio-release/proxyv2:master-20180424-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
@@ -472,6 +481,12 @@
 
 
 [gcr.io/istio-release/proxyv2:master-20180827-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/istio-release/proxyv2:master-20180828-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/istio-release/proxyv2:master-20180829-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
 
 
 [gcr.io/istio-release/proxyv2:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
@@ -865,6 +880,12 @@
 
 
 [gcr.io/istio-release/proxyv2:release-1.0-20180827-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/istio-release/proxyv2:release-1.0-20180828-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/istio-release/proxyv2:release-1.0-20180829-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
 
 
 [gcr.io/istio-release/proxyv2:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)

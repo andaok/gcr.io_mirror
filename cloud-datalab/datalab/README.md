@@ -558,6 +558,9 @@
 [gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180820_0931_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
+[gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180829_1524_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
+
+
 [gcr.io/cloud-datalab/datalab:cloud-shell](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab/tags/)
 
 
