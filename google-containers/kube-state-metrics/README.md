@@ -45,3 +45,6 @@
 [gcr.io/google-containers/kube-state-metrics:v1.3.1](https://hub.docker.com/r/anjia0532/google-containers.kube-state-metrics/tags/)
 
 
+[gcr.io/google-containers/kube-state-metrics:v1.4.0](https://hub.docker.com/r/anjia0532/google-containers.kube-state-metrics/tags/)
+
+

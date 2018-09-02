@@ -27,6 +27,9 @@
 [gcr.io/google-containers/kubelet-to-gcm:1.2.6](https://hub.docker.com/r/anjia0532/google-containers.kubelet-to-gcm/tags/)
 
 
+[gcr.io/google-containers/kubelet-to-gcm:1.2.7](https://hub.docker.com/r/anjia0532/google-containers.kubelet-to-gcm/tags/)
+
+
 [gcr.io/google-containers/kubelet-to-gcm:1.2](https://hub.docker.com/r/anjia0532/google-containers.kubelet-to-gcm/tags/)
 
 

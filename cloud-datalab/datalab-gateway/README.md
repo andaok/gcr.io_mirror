@@ -2640,6 +2640,9 @@
 [gcr.io/cloud-datalab/datalab-gateway:commit-9beb62fc7df907f4b02c701051aaa5d4167b5884](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
+[gcr.io/cloud-datalab/datalab-gateway:commit-9dd43fe68e6cc2975ca0383caeb04caa4057ab91](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
 [gcr.io/cloud-datalab/datalab-gateway:commit-9e3f93500e569dd64a112d4e9eaca2f38293ad58](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 

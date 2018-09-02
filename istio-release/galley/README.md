@@ -45,6 +45,9 @@
 [gcr.io/istio-release/galley:0.8-20180501](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
+[gcr.io/istio-release/galley:1.0.0-identity-eap](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
 [gcr.io/istio-release/galley:1.0.0-snapshot.0](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
@@ -81,10 +84,19 @@
 [gcr.io/istio-release/galley:collab-gcp-identity-20180829-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
+[gcr.io/istio-release/galley:collab-gcp-identity-20180830-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:collab-gcp-identity-20180831-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
 [gcr.io/istio-release/galley:latest_daily_release-1.0](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:latest_daily](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:managed-istio-eap](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:master-20180424-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
@@ -433,6 +445,12 @@
 
 
 [gcr.io/istio-release/galley:master-20180829-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20180830-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20180831-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
@@ -829,6 +847,15 @@
 
 
 [gcr.io/istio-release/galley:release-1.0-20180829-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20180830-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20180831-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20180831-18-46](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
