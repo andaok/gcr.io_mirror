@@ -1,3 +1,8 @@
+## 2018-09-04 01:31 
+
+[gcr.io/google-containers/ingress-gce-glbc-amd64:v1.3.2](https://hub.docker.com/r/anjia0532/google-containers.ingress-gce-glbc-amd64/tags/)
+
+
 ## 2018-09-03 14:53 
 
 [gcr.io/kubernetes-helm/tiller:canary](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
