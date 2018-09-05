@@ -105,6 +105,9 @@
 [gcr.io/istio-release/citadel:collab-gcp-identity-20180903-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
 
 
+[gcr.io/istio-release/citadel:collab-gcp-identity-20180904-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
+
+
 [gcr.io/istio-release/citadel:latest_daily_release-1.0](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
 
 
@@ -889,6 +892,18 @@
 
 
 [gcr.io/istio-release/citadel:release-1.0-20180903-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
+
+
+[gcr.io/istio-release/citadel:release-1.0-20180904-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
+
+
+[gcr.io/istio-release/citadel:release-1.0-20180904-17-48](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
+
+
+[gcr.io/istio-release/citadel:release-1.0-20180904-18-35](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
+
+
+[gcr.io/istio-release/citadel:release-1.0-20180904-22-40](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
 
 
 [gcr.io/istio-release/citadel:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.citadel/tags/)
