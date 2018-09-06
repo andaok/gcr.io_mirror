@@ -63,3 +63,6 @@
 [gcr.io/google-containers/etcd-arm:3.2.18](https://hub.docker.com/r/anjia0532/google-containers.etcd-arm/tags/)
 
 
+[gcr.io/google-containers/etcd-arm:3.2.24](https://hub.docker.com/r/anjia0532/google-containers.etcd-arm/tags/)
+
+

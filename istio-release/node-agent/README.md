@@ -486,6 +486,12 @@
 [gcr.io/istio-release/node-agent:collab-gcp-identity-20180904-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
+[gcr.io/istio-release/node-agent:collab-gcp-identity-20180905-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
+[gcr.io/istio-release/node-agent:collab-gcp-identity-20180905-15-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
 [gcr.io/istio-release/node-agent:latest_daily_release-1.0](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
@@ -856,6 +862,9 @@
 
 
 [gcr.io/istio-release/node-agent:master-20180903-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
+[gcr.io/istio-release/node-agent:master-20180905-15-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
 [gcr.io/istio-release/node-agent:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
@@ -1276,6 +1285,12 @@
 
 
 [gcr.io/istio-release/node-agent:release-1.0-20180904-22-40](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
+[gcr.io/istio-release/node-agent:release-1.0-20180905-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
+[gcr.io/istio-release/node-agent:release-1.0-20180905-18-29](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
 [gcr.io/istio-release/node-agent:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)

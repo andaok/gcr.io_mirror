@@ -294,6 +294,9 @@
 [gcr.io/linkerd-io/cli-bin:git-d3544d40](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:git-d679c1fa](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-da07d5db](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
@@ -316,6 +319,9 @@
 
 
 [gcr.io/linkerd-io/cli-bin:git-e196e1af](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
+[gcr.io/linkerd-io/cli-bin:git-e4f14cab](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
 [gcr.io/linkerd-io/cli-bin:git-e5ab124d](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)

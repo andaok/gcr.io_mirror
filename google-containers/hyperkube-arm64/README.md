@@ -135,6 +135,9 @@
 [gcr.io/google-containers/hyperkube-arm64:v1.12.0-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm64/tags/)
 
 
+[gcr.io/google-containers/hyperkube-arm64:v1.12.0-beta.1](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm64/tags/)
+
+
 [gcr.io/google-containers/hyperkube-arm64:v1.13.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm64/tags/)
 
 

@@ -138,6 +138,9 @@
 [gcr.io/google-containers/kube-apiserver:v1.12.0-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver/tags/)
 
 
+[gcr.io/google-containers/kube-apiserver:v1.12.0-beta.1](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver/tags/)
+
+
 [gcr.io/google-containers/kube-apiserver:v1.13.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver/tags/)
 
 
