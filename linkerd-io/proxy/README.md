@@ -360,6 +360,9 @@
 [gcr.io/linkerd-io/proxy:git-f79a40a3](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
+[gcr.io/linkerd-io/proxy:git-f884caf5](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
 [gcr.io/linkerd-io/proxy:git-f9b27c7e](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 

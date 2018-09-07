@@ -345,6 +345,9 @@
 [gcr.io/linkerd-io/grafana:git-f79a40a3](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-f884caf5](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-f9b27c7e](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 

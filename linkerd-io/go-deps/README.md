@@ -24,6 +24,9 @@
 [gcr.io/linkerd-io/go-deps:817f8e11](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
 
 
+[gcr.io/linkerd-io/go-deps:a4f825be](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
+
+
 [gcr.io/linkerd-io/go-deps:baf323e4](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
 
 

@@ -363,6 +363,9 @@
 [gcr.io/linkerd-io/web:git-f79a40a3](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:git-f884caf5](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-f9b27c7e](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
