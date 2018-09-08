@@ -501,6 +501,9 @@
 [gcr.io/istio-release/servicegraph_debug:collab-gcp-identity-20180906-15-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
 
 
+[gcr.io/istio-release/servicegraph_debug:collab-gcp-identity-20180907-09-25](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
 [gcr.io/istio-release/servicegraph_debug:krishnatest](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
 
 
@@ -877,6 +880,9 @@
 
 
 [gcr.io/istio-release/servicegraph_debug:master-20180906-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:master-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
 
 
 [gcr.io/istio-release/servicegraph_debug:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
@@ -1306,6 +1312,9 @@
 
 
 [gcr.io/istio-release/servicegraph_debug:release-1.0-20180906-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
 
 
 [gcr.io/istio-release/servicegraph_debug:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)

@@ -192,6 +192,9 @@
 [gcr.io/linkerd-io/proxy-init:git-7530b92a](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
+[gcr.io/linkerd-io/proxy-init:git-761d8453](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
 [gcr.io/linkerd-io/proxy-init:git-77ddd142](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
@@ -205,6 +208,9 @@
 
 
 [gcr.io/linkerd-io/proxy-init:git-7f4fc308](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
+[gcr.io/linkerd-io/proxy-init:git-828ea293](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
 [gcr.io/linkerd-io/proxy-init:git-829371bc](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
