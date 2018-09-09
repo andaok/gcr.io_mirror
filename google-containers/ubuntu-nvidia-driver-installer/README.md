@@ -9,6 +9,9 @@
 [gcr.io/google-containers/ubuntu-nvidia-driver-installer:10bde305c265b06785b227d714c02518e05095bc](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-nvidia-driver-installer/tags/)
 
 
+[gcr.io/google-containers/ubuntu-nvidia-driver-installer:27396e9de55a96ba035e99480b70de5020861e60](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-nvidia-driver-installer/tags/)
+
+
 [gcr.io/google-containers/ubuntu-nvidia-driver-installer:31ee590ea32667804438a380cea5f46064cf9f03](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-nvidia-driver-installer/tags/)
 
 

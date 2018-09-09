@@ -1,3 +1,32 @@
+## 2018-09-09 02:29 
+
+[gcr.io/istio-release/proxy_init:master-20180908-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
+
+
+[gcr.io/istio-release/node-agent-test:release-1.0-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
+[gcr.io/istio-release/mixer_debug:release-1.0-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer_debug/tags/)
+
+
+[gcr.io/istio-release/proxyv2:master-20180908-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.5.0-20180906231742](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/istio-release/proxy_init:release-1.0-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:master-20180908-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxyv2:release-1.0-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gpu:commit-16f7c3c3cdfb4faf9bcf411710350931201c9acc](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
+
+
 ## 2018-09-08 02:50 
 
 [gcr.io/istio-release/servicegraph:release-1.0-20180907-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph/tags/)
