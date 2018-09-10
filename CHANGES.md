@@ -1,3 +1,11 @@
+## 2018-09-10 02:23 
+
+[gcr.io/spinnaker-marketplace/halyard:1.9.2-20180906143739](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-09-09 02:29 
 
 [gcr.io/istio-release/proxy_init:master-20180908-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
