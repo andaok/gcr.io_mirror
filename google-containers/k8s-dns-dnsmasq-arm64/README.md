@@ -21,6 +21,9 @@
 [gcr.io/google-containers/k8s-dns-dnsmasq-arm64:1.14.10](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-arm64/tags/)
 
 
+[gcr.io/google-containers/k8s-dns-dnsmasq-arm64:1.14.11](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-arm64/tags/)
+
+
 [gcr.io/google-containers/k8s-dns-dnsmasq-arm64:1.14.3](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-arm64/tags/)
 
 
