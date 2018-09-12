@@ -519,6 +519,12 @@
 [gcr.io/istio-release/grafana:collab-gcp-identity-20180910-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 
+[gcr.io/istio-release/grafana:collab-gcp-identity-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
+
+
+[gcr.io/istio-release/grafana:collab-gcp-identity-20180911-20-21](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
+
+
 [gcr.io/istio-release/grafana:krishnatest](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 
@@ -1339,6 +1345,9 @@
 
 
 [gcr.io/istio-release/grafana:release-1.0-20180910-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
+
+
+[gcr.io/istio-release/grafana:release-1.0-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 
 [gcr.io/istio-release/grafana:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
