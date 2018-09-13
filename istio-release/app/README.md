@@ -534,6 +534,9 @@
 [gcr.io/istio-release/app:0.8-20180501](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
+[gcr.io/istio-release/app:1.0.0-identity-eap.0](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
 [gcr.io/istio-release/app:1.0.0-identity-eap](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
@@ -619,6 +622,12 @@
 
 
 [gcr.io/istio-release/app:collab-gcp-identity-20180911-20-21](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
+[gcr.io/istio-release/app:collab-gcp-identity-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
+[gcr.io/istio-release/app:krishnatest4](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
 [gcr.io/istio-release/app:krishnatest](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
@@ -1021,6 +1030,9 @@
 
 
 [gcr.io/istio-release/app:master-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
+[gcr.io/istio-release/app:master-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
 [gcr.io/istio-release/app:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
@@ -1468,6 +1480,9 @@
 
 
 [gcr.io/istio-release/app:release-1.0-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
+
+
+[gcr.io/istio-release/app:release-1.0-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)
 
 
 [gcr.io/istio-release/app:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.app/tags/)

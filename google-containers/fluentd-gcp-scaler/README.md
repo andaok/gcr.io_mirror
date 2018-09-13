@@ -15,3 +15,6 @@
 [gcr.io/google-containers/fluentd-gcp-scaler:0.4](https://hub.docker.com/r/anjia0532/google-containers.fluentd-gcp-scaler/tags/)
 
 
+[gcr.io/google-containers/fluentd-gcp-scaler:0.5](https://hub.docker.com/r/anjia0532/google-containers.fluentd-gcp-scaler/tags/)
+
+

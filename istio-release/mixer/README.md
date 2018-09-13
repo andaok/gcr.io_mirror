@@ -450,6 +450,9 @@
 [gcr.io/istio-release/mixer:0.8-20180501](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
+[gcr.io/istio-release/mixer:1.0.0-identity-eap.0](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
 [gcr.io/istio-release/mixer:1.0.0-identity-eap](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
@@ -535,6 +538,12 @@
 
 
 [gcr.io/istio-release/mixer:collab-gcp-identity-20180911-20-21](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
+[gcr.io/istio-release/mixer:collab-gcp-identity-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
+[gcr.io/istio-release/mixer:krishnatest4](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
 [gcr.io/istio-release/mixer:krishnatest](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
@@ -928,6 +937,9 @@
 
 
 [gcr.io/istio-release/mixer:master-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
+[gcr.io/istio-release/mixer:master-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
 [gcr.io/istio-release/mixer:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
@@ -1375,6 +1387,9 @@
 
 
 [gcr.io/istio-release/mixer:release-1.0-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
+
+
+[gcr.io/istio-release/mixer:release-1.0-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)
 
 
 [gcr.io/istio-release/mixer:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.mixer/tags/)

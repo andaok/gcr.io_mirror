@@ -534,6 +534,9 @@
 [gcr.io/istio-release/proxy_debug:0.8-20180501](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
+[gcr.io/istio-release/proxy_debug:1.0.0-identity-eap.0](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
 [gcr.io/istio-release/proxy_debug:1.0.0-identity-eap](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
@@ -616,6 +619,12 @@
 
 
 [gcr.io/istio-release/proxy_debug:collab-gcp-identity-20180911-20-21](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:collab-gcp-identity-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:krishnatest4](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
 [gcr.io/istio-release/proxy_debug:krishnatest](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
@@ -1009,6 +1018,9 @@
 
 
 [gcr.io/istio-release/proxy_debug:master-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:master-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
 [gcr.io/istio-release/proxy_debug:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
@@ -1453,6 +1465,9 @@
 
 
 [gcr.io/istio-release/proxy_debug:release-1.0-20180911-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
+
+
+[gcr.io/istio-release/proxy_debug:release-1.0-20180912-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
 
 
 [gcr.io/istio-release/proxy_debug:tahler-test-release-2](https://hub.docker.com/r/anjia0532/istio-release.proxy_debug/tags/)
