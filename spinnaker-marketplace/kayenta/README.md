@@ -108,3 +108,12 @@
 [gcr.io/spinnaker-marketplace/kayenta:0.4.0-20180912133355](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.kayenta/tags/)
 
 
+[gcr.io/spinnaker-marketplace/kayenta:0.4.0-20180913142809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.kayenta/tags/)
+
+
+[gcr.io/spinnaker-marketplace/kayenta:0.4.0-20180913152809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.kayenta/tags/)
+
+
+[gcr.io/spinnaker-marketplace/kayenta:0.4.0-20180913172809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.kayenta/tags/)
+
+
