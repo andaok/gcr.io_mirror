@@ -132,6 +132,12 @@
 [gcr.io/google-containers/hyperkube:v1.10.8-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
+[gcr.io/google-containers/hyperkube:v1.10.8](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
+[gcr.io/google-containers/hyperkube:v1.10.9-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
 [gcr.io/google-containers/hyperkube:v1.1.0-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
