@@ -24,6 +24,9 @@
 [gcr.io/linkerd-io/proxy-init:dev-tap-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
+[gcr.io/linkerd-io/proxy-init:edge-18.9.2](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
 [gcr.io/linkerd-io/proxy-init:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
@@ -75,6 +78,9 @@
 [gcr.io/linkerd-io/proxy-init:git-127e4964](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
+[gcr.io/linkerd-io/proxy-init:git-12b10e27](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
 [gcr.io/linkerd-io/proxy-init:git-136b9cc7](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
@@ -94,6 +100,9 @@
 
 
 [gcr.io/linkerd-io/proxy-init:git-1bf280b1](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
+[gcr.io/linkerd-io/proxy-init:git-1caaefd5](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
 [gcr.io/linkerd-io/proxy-init:git-1d3580ba](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
@@ -198,6 +207,9 @@
 [gcr.io/linkerd-io/proxy-init:git-63be9b1a](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
+[gcr.io/linkerd-io/proxy-init:git-668aa079](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
 [gcr.io/linkerd-io/proxy-init:git-6b830ef4](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
@@ -253,6 +265,9 @@
 
 
 [gcr.io/linkerd-io/proxy-init:git-9821b973](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
+[gcr.io/linkerd-io/proxy-init:git-9951a6e8](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
 [gcr.io/linkerd-io/proxy-init:git-9bb4ecb0](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
@@ -378,7 +393,13 @@
 [gcr.io/linkerd-io/proxy-init:git-e63e28e2](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
+[gcr.io/linkerd-io/proxy-init:git-e65a9617](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
 [gcr.io/linkerd-io/proxy-init:git-e97be1f5](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
+[gcr.io/linkerd-io/proxy-init:git-ea520593](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
 [gcr.io/linkerd-io/proxy-init:git-eb04217a](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)

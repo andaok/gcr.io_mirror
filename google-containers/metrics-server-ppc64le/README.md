@@ -12,3 +12,6 @@
 [gcr.io/google-containers/metrics-server-ppc64le:v0.3.0](https://hub.docker.com/r/anjia0532/google-containers.metrics-server-ppc64le/tags/)
 
 
+[gcr.io/google-containers/metrics-server-ppc64le:v0.3.1](https://hub.docker.com/r/anjia0532/google-containers.metrics-server-ppc64le/tags/)
+
+

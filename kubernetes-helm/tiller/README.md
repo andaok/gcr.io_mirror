@@ -66,6 +66,9 @@
 [gcr.io/kubernetes-helm/tiller:v2.11.0-rc.2](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
 
 
+[gcr.io/kubernetes-helm/tiller:v2.11.0-rc.3](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
+
+
 [gcr.io/kubernetes-helm/tiller:v2.1.1](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
 
 
