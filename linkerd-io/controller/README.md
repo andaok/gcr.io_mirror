@@ -78,6 +78,9 @@
 [gcr.io/linkerd-io/controller:git-0fcfd2bf](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
+[gcr.io/linkerd-io/controller:git-10181cd6](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
+
+
 [gcr.io/linkerd-io/controller:git-127e4964](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
@@ -130,6 +133,9 @@
 
 
 [gcr.io/linkerd-io/controller:git-3357a06f](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
+
+
+[gcr.io/linkerd-io/controller:git-34bcf2db](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
 [gcr.io/linkerd-io/controller:git-377391cd](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
@@ -226,6 +232,9 @@
 
 
 [gcr.io/linkerd-io/controller:git-716c66b8](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
+
+
+[gcr.io/linkerd-io/controller:git-73257064](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
 [gcr.io/linkerd-io/controller:git-7467e36b](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
@@ -378,6 +387,9 @@
 [gcr.io/linkerd-io/controller:git-d3544d40](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
+[gcr.io/linkerd-io/controller:git-d417f564](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
+
+
 [gcr.io/linkerd-io/controller:git-d679c1fa](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
@@ -447,6 +459,9 @@
 [gcr.io/linkerd-io/controller:git-f510d7ea](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
+[gcr.io/linkerd-io/controller:git-f5504312](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
+
+
 [gcr.io/linkerd-io/controller:git-f70ad7de](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
@@ -475,6 +490,9 @@
 
 
 [gcr.io/linkerd-io/controller:master](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
+
+
+[gcr.io/linkerd-io/controller:stable-2.0.0](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)
 
 
 [gcr.io/linkerd-io/controller:v18.7.1](https://hub.docker.com/r/anjia0532/linkerd-io.controller/tags/)

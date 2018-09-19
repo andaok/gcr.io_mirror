@@ -954,6 +954,11 @@
 
 
 
+[gcr.io/google-containers/k8s-dns-dnsmasq-nanny](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-nanny/tags/)
+-----
+
+
+
 [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-nanny-amd64/tags/)
 -----
 
@@ -1029,6 +1034,11 @@
 
 
 
+[gcr.io/google-containers/k8s-dns-kube-dns](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-kube-dns/tags/)
+-----
+
+
+
 [gcr.io/google-containers/k8s-dns-kube-dns-amd64](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-kube-dns-amd64/tags/)
 -----
 
@@ -1050,6 +1060,11 @@
 
 
 [gcr.io/google-containers/k8s-dns-kube-dns-s390x](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-kube-dns-s390x/tags/)
+-----
+
+
+
+[gcr.io/google-containers/k8s-dns-sidecar](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar/tags/)
 -----
 
 
