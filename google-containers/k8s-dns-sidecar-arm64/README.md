@@ -30,6 +30,9 @@
 [gcr.io/google-containers/k8s-dns-sidecar-arm64:1.14.11](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-arm64/tags/)
 
 
+[gcr.io/google-containers/k8s-dns-sidecar-arm64:1.14.12](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-arm64/tags/)
+
+
 [gcr.io/google-containers/k8s-dns-sidecar-arm64:1.14.1](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-arm64/tags/)
 
 

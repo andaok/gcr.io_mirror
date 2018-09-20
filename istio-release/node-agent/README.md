@@ -540,6 +540,9 @@
 [gcr.io/istio-release/node-agent:collab-gcp-identity-20180918-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
+[gcr.io/istio-release/node-agent:collab-gcp-identity-20180919-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
 [gcr.io/istio-release/node-agent:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
@@ -961,6 +964,9 @@
 
 
 [gcr.io/istio-release/node-agent:master-20180918-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
+
+
+[gcr.io/istio-release/node-agent:master-20180919-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)
 
 
 [gcr.io/istio-release/node-agent:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.node-agent/tags/)

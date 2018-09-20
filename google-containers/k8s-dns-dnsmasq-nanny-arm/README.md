@@ -12,6 +12,9 @@
 [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.14.11](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-nanny-arm/tags/)
 
 
+[gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.14.12](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-nanny-arm/tags/)
+
+
 [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.14.1](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-dnsmasq-nanny-arm/tags/)
 
 
