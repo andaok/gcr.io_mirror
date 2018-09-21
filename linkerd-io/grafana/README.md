@@ -75,6 +75,9 @@
 [gcr.io/linkerd-io/grafana:git-10181cd6](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-11c9b742](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-127e4964](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 

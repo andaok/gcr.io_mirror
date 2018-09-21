@@ -45,3 +45,6 @@
 [gcr.io/google-containers/prometheus-to-sd:v0.3.1](https://hub.docker.com/r/anjia0532/google-containers.prometheus-to-sd/tags/)
 
 
+[gcr.io/google-containers/prometheus-to-sd:v0.3.2](https://hub.docker.com/r/anjia0532/google-containers.prometheus-to-sd/tags/)
+
+

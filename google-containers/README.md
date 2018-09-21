@@ -189,6 +189,11 @@
 
 
 
+[gcr.io/google-containers/debian-base](https://hub.docker.com/r/anjia0532/google-containers.debian-base/tags/)
+-----
+
+
+
 [gcr.io/google-containers/debian-base-amd64](https://hub.docker.com/r/anjia0532/google-containers.debian-base-amd64/tags/)
 -----
 
@@ -210,6 +215,11 @@
 
 
 [gcr.io/google-containers/debian-base-s390x](https://hub.docker.com/r/anjia0532/google-containers.debian-base-s390x/tags/)
+-----
+
+
+
+[gcr.io/google-containers/debian-hyperkube-base](https://hub.docker.com/r/anjia0532/google-containers.debian-hyperkube-base/tags/)
 -----
 
 

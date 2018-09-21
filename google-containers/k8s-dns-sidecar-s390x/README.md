@@ -18,6 +18,9 @@
 [gcr.io/google-containers/k8s-dns-sidecar-s390x:1.14.12](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-s390x/tags/)
 
 
+[gcr.io/google-containers/k8s-dns-sidecar-s390x:1.14.13](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-s390x/tags/)
+
+
 [gcr.io/google-containers/k8s-dns-sidecar-s390x:1.14.1](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-s390x/tags/)
 
 

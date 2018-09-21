@@ -159,6 +159,9 @@
 [gcr.io/google-containers/etcd-amd64:3.2.18](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
 
 
+[gcr.io/google-containers/etcd-amd64:3.2.24-0](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
+
+
 [gcr.io/google-containers/etcd-amd64:3.2.24](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
 
 

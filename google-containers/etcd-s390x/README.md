@@ -51,6 +51,9 @@
 [gcr.io/google-containers/etcd-s390x:3.2.18](https://hub.docker.com/r/anjia0532/google-containers.etcd-s390x/tags/)
 
 
+[gcr.io/google-containers/etcd-s390x:3.2.24-0](https://hub.docker.com/r/anjia0532/google-containers.etcd-s390x/tags/)
+
+
 [gcr.io/google-containers/etcd-s390x:3.2.24](https://hub.docker.com/r/anjia0532/google-containers.etcd-s390x/tags/)
 
 

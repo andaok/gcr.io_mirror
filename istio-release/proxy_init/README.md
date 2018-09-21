@@ -645,6 +645,9 @@
 [gcr.io/istio-release/proxy_init:collab-gcp-identity-20180919-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
 
 
+[gcr.io/istio-release/proxy_init:collab-gcp-identity-20180920-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
+
+
 [gcr.io/istio-release/proxy_init:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
 
 
@@ -1066,6 +1069,9 @@
 
 
 [gcr.io/istio-release/proxy_init:master-20180919-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
+
+
+[gcr.io/istio-release/proxy_init:master-20180920-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
 
 
 [gcr.io/istio-release/proxy_init:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
@@ -1534,6 +1540,9 @@
 
 
 [gcr.io/istio-release/proxy_init:rkpagadala-test5](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
+
+
+[gcr.io/istio-release/proxy_init:rkpagadala-test7](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)
 
 
 [gcr.io/istio-release/proxy_init:rkpagadala-test-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.proxy_init/tags/)

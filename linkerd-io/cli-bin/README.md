@@ -78,6 +78,9 @@
 [gcr.io/linkerd-io/cli-bin:git-10181cd6](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 
+[gcr.io/linkerd-io/cli-bin:git-11c9b742](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
+
+
 [gcr.io/linkerd-io/cli-bin:git-127e4964](https://hub.docker.com/r/anjia0532/linkerd-io.cli-bin/tags/)
 
 

@@ -78,6 +78,9 @@
 [gcr.io/linkerd-io/web:git-10181cd6](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:git-11c9b742](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:git-127e4964](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
