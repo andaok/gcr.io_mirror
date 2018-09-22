@@ -480,6 +480,9 @@
 [gcr.io/istio-release/sidecar_injector:collab-gcp-identity-20180920-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
 
 
+[gcr.io/istio-release/sidecar_injector:collab-gcp-identity-20180921-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
+
+
 [gcr.io/istio-release/sidecar_injector:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
 
 
@@ -904,6 +907,9 @@
 
 
 [gcr.io/istio-release/sidecar_injector:master-20180920-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
+
+
+[gcr.io/istio-release/sidecar_injector:master-20180921-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
 
 
 [gcr.io/istio-release/sidecar_injector:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
@@ -1369,6 +1375,9 @@
 
 
 [gcr.io/istio-release/sidecar_injector:release-1.0-20180918-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
+
+
+[gcr.io/istio-release/sidecar_injector:release-1.0-20180921-09-15](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)
 
 
 [gcr.io/istio-release/sidecar_injector:rkpagadala-test5](https://hub.docker.com/r/anjia0532/istio-release.sidecar_injector/tags/)

@@ -156,6 +156,9 @@
 [gcr.io/google-containers/hyperkube-arm:v1.12.0-rc.1](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm/tags/)
 
 
+[gcr.io/google-containers/hyperkube-arm:v1.12.0-rc.2](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm/tags/)
+
+
 [gcr.io/google-containers/hyperkube-arm:v1.1.2](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm/tags/)
 
 

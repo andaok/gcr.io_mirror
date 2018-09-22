@@ -255,6 +255,9 @@
 [gcr.io/linkerd-io/proxy-init:git-77ddd142](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 
+[gcr.io/linkerd-io/proxy-init:git-783bb1c3](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
+
+
 [gcr.io/linkerd-io/proxy-init:git-78fa120c](https://hub.docker.com/r/anjia0532/linkerd-io.proxy-init/tags/)
 
 

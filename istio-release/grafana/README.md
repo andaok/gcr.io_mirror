@@ -555,6 +555,9 @@
 [gcr.io/istio-release/grafana:collab-gcp-identity-20180920-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 
+[gcr.io/istio-release/grafana:collab-gcp-identity-20180921-09-15](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
+
+
 [gcr.io/istio-release/grafana:krishnatest](https://hub.docker.com/r/anjia0532/istio-release.grafana/tags/)
 
 
