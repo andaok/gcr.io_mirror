@@ -94,6 +94,11 @@
 
 
 
+[gcr.io/istio-release/proxytproxy](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+-----
+
+
+
 [gcr.io/istio-release/proxyv2](https://hub.docker.com/r/anjia0532/istio-release.proxyv2/tags/)
 -----
 
