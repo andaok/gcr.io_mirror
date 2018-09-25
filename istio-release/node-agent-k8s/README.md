@@ -108,6 +108,9 @@
 [gcr.io/istio-release/node-agent-k8s:collab-gcp-identity-20180923-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 
+[gcr.io/istio-release/node-agent-k8s:collab-gcp-identity-20180924-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
 [gcr.io/istio-release/node-agent-k8s:managed-istio-eap](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 
@@ -115,5 +118,8 @@
 
 
 [gcr.io/istio-release/node-agent-k8s:master-20180923-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20180924-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 

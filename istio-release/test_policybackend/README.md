@@ -126,6 +126,9 @@
 [gcr.io/istio-release/test_policybackend:collab-gcp-identity-20180923-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
+[gcr.io/istio-release/test_policybackend:collab-gcp-identity-20180924-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
 [gcr.io/istio-release/test_policybackend:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
@@ -418,6 +421,9 @@
 
 
 [gcr.io/istio-release/test_policybackend:master-20180923-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20180924-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
 [gcr.io/istio-release/test_policybackend:release-1.0.0-snapshot.0-20180621-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
@@ -739,6 +745,9 @@
 
 
 [gcr.io/istio-release/test_policybackend:release-1.0-20180923-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.0-20180924-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
 [gcr.io/istio-release/test_policybackend:rkpagadala-test5](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
