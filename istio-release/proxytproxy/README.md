@@ -12,3 +12,6 @@
 [gcr.io/istio-release/proxytproxy:master-20180924-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
 
 
+[gcr.io/istio-release/proxytproxy:master-20180925-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
