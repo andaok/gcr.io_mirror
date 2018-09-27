@@ -27,6 +27,9 @@
 [gcr.io/linkerd-io/proxy:edge-18.9.2](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
+[gcr.io/linkerd-io/proxy:edge-18.9.3](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
 [gcr.io/linkerd-io/proxy:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
@@ -409,6 +412,9 @@
 
 
 [gcr.io/linkerd-io/proxy:git-d2310311](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
+[gcr.io/linkerd-io/proxy:git-d287480f](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
 [gcr.io/linkerd-io/proxy:git-d3544d40](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)

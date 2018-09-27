@@ -72,6 +72,9 @@
 [gcr.io/istio-release/galley:1.1.0.snapshot.0](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
+[gcr.io/istio-release/galley:1.1.0.snapshot.1](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
 [gcr.io/istio-release/galley:collab-gcp-identity-20180824-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
@@ -175,6 +178,9 @@
 
 
 [gcr.io/istio-release/galley:collab-gcp-identity-20180925-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:collab-gcp-identity-20180926-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
@@ -619,6 +625,9 @@
 
 
 [gcr.io/istio-release/galley:master-20180925-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20180926-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
@@ -1102,6 +1111,12 @@
 
 
 [gcr.io/istio-release/galley:release-1.0-20180925-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20180926-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:rkpagadala-test14](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:rkpagadala-test5](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)

@@ -27,6 +27,9 @@
 [gcr.io/linkerd-io/web:edge-18.9.2](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
+[gcr.io/linkerd-io/web:edge-18.9.3](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
 [gcr.io/linkerd-io/web:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
@@ -421,6 +424,9 @@
 
 
 [gcr.io/linkerd-io/web:git-d2310311](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
+
+
+[gcr.io/linkerd-io/web:git-d287480f](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)
 
 
 [gcr.io/linkerd-io/web:git-d3544d40](https://hub.docker.com/r/anjia0532/linkerd-io.web/tags/)

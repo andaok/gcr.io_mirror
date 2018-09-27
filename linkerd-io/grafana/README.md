@@ -24,6 +24,9 @@
 [gcr.io/linkerd-io/grafana:edge-18.9.2](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:edge-18.9.3](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:eliza-sm](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -409,6 +412,9 @@
 
 
 [gcr.io/linkerd-io/grafana:git-d2310311](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-d287480f](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-d3544d40](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
