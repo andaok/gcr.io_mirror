@@ -672,3 +672,18 @@
 [gcr.io/spinnaker-marketplace/deck:2.5.0-20180926152809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
+[gcr.io/spinnaker-marketplace/deck:2.5.0-20180926204551](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.5.0-20180927112808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.5.0-20180927135911](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.5.0-20180927152808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.5.0-20180927194700](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+

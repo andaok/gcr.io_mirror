@@ -159,6 +159,12 @@
 [gcr.io/google-containers/kube-scheduler-amd64:v1.12.0-rc.2](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-amd64/tags/)
 
 
+[gcr.io/google-containers/kube-scheduler-amd64:v1.12.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-amd64/tags/)
+
+
+[gcr.io/google-containers/kube-scheduler-amd64:v1.12.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-amd64/tags/)
+
+
 [gcr.io/google-containers/kube-scheduler-amd64:v1.13.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-amd64/tags/)
 
 
