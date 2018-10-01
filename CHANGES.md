@@ -1,3 +1,11 @@
+## 2018-10-01 22:07 
+
+[gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180729-32b79ba9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.4.1-notebook-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180608-cc3566da](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.4.1-notebook-cpu/tags/)
+
+
 ## 2018-09-28 03:29 
 
 [gcr.io/istio-release/servicegraph:release-1.0-20180927-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph/tags/)

@@ -612,3 +612,6 @@
 [gcr.io/linkerd-io/proxy:ver-eventless.0](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
 
 
+[gcr.io/linkerd-io/proxy:ver-stacked.01](https://hub.docker.com/r/anjia0532/linkerd-io.proxy/tags/)
+
+
