@@ -192,6 +192,18 @@
 [gcr.io/istio-release/citadel-test:collab-gcp-identity-20180927-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
 
 
+[gcr.io/istio-release/citadel-test:collab-gcp-identity-20180930-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:collab-gcp-identity-20181001-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:collab-gcp-identity-20181002-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:collab-gcp-identity-20181003-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
 [gcr.io/istio-release/citadel-test:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
 
 
@@ -640,6 +652,24 @@
 
 
 [gcr.io/istio-release/citadel-test:master-20180927-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:master-20180928-05-43](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:master-20180928-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:master-20181001-03-48](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:master-20181001-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:master-20181002-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:master-20181002-09-25](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
 
 
 [gcr.io/istio-release/citadel-test:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
@@ -1137,6 +1167,18 @@
 [gcr.io/istio-release/citadel-test:release-1.0-20180927-21-10](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
 
 
+[gcr.io/istio-release/citadel-test:release-1.0-20180930-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:release-1.0-20181001-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:release-1.0-20181002-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:release-1.0-20181003-09-15](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
 [gcr.io/istio-release/citadel-test:rkpagadala-test14](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
 
 
@@ -1144,6 +1186,24 @@
 
 
 [gcr.io/istio-release/citadel-test:rkpagadala-test22](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:rkpagadala-test30](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:rkpagadala-test33](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:rkpagadala-test34](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:rkpagadala-test35](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:rkpagadala-test36](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
+
+
+[gcr.io/istio-release/citadel-test:rkpagadala-test38](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)
 
 
 [gcr.io/istio-release/citadel-test:rkpagadala-test5](https://hub.docker.com/r/anjia0532/istio-release.citadel-test/tags/)

@@ -204,6 +204,9 @@
 [gcr.io/spinnaker-marketplace/gate:1.1.2-20180901041609](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
 
 
+[gcr.io/spinnaker-marketplace/gate:1.1.3-20180929041608](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
 [gcr.io/spinnaker-marketplace/gate:1.2.0-20180815162654](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
 
 
@@ -259,6 +262,27 @@
 
 
 [gcr.io/spinnaker-marketplace/gate:1.2.0-20180927194700](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181001132808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181001172808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181001202808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181002151301](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181002175325](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181002185716](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gate:1.2.0-20181003113343](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)
 
 
 [gcr.io/spinnaker-marketplace/gate:d58f39c525c7c3bf7b1c43727f3331ac412380d8](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gate/tags/)

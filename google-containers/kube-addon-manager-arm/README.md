@@ -63,3 +63,6 @@
 [gcr.io/google-containers/kube-addon-manager-arm:v8.7](https://hub.docker.com/r/anjia0532/google-containers.kube-addon-manager-arm/tags/)
 
 
+[gcr.io/google-containers/kube-addon-manager-arm:v8.8](https://hub.docker.com/r/anjia0532/google-containers.kube-addon-manager-arm/tags/)
+
+

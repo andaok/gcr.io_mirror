@@ -39,3 +39,6 @@
 [gcr.io/google-containers/kube-addon-manager-s390x:v8.7](https://hub.docker.com/r/anjia0532/google-containers.kube-addon-manager-s390x/tags/)
 
 
+[gcr.io/google-containers/kube-addon-manager-s390x:v8.8](https://hub.docker.com/r/anjia0532/google-containers.kube-addon-manager-s390x/tags/)
+
+

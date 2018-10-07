@@ -21,6 +21,9 @@
 [gcr.io/linkerd-io/grafana:dev-tap-eliza](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:edge-18.10.1](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:edge-18.9.2](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -156,6 +159,12 @@
 [gcr.io/linkerd-io/grafana:git-3811c3f7](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-381af1b2](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-3875fe80](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-38b66ac9](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -189,6 +198,9 @@
 [gcr.io/linkerd-io/grafana:git-4470c8fb](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-460f6887](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-4845b4ec](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -220,6 +232,9 @@
 
 
 [gcr.io/linkerd-io/grafana:git-5963fe7c](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-5a853e89](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-5d01779d](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
@@ -435,6 +450,9 @@
 [gcr.io/linkerd-io/grafana:git-dcb9c550](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
+[gcr.io/linkerd-io/grafana:git-dccccebd](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
 [gcr.io/linkerd-io/grafana:git-de71132c](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
@@ -466,6 +484,9 @@
 
 
 [gcr.io/linkerd-io/grafana:git-ea520593](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
+
+
+[gcr.io/linkerd-io/grafana:git-eaec37c6](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)
 
 
 [gcr.io/linkerd-io/grafana:git-eb04217a](https://hub.docker.com/r/anjia0532/linkerd-io.grafana/tags/)

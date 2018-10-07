@@ -57,3 +57,6 @@
 [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.2.0](https://hub.docker.com/r/anjia0532/google-containers.cluster-proportional-autoscaler-amd64/tags/)
 
 
+[gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.3.0](https://hub.docker.com/r/anjia0532/google-containers.cluster-proportional-autoscaler-amd64/tags/)
+
+

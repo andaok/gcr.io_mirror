@@ -675,6 +675,18 @@
 [gcr.io/istio-release/pilot:collab-gcp-identity-20180927-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
+[gcr.io/istio-release/pilot:collab-gcp-identity-20180930-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:collab-gcp-identity-20181001-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:collab-gcp-identity-20181002-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:collab-gcp-identity-20181003-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
 [gcr.io/istio-release/pilot:krishnatest14](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
@@ -1123,6 +1135,27 @@
 
 
 [gcr.io/istio-release/pilot:master-20180927-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20180928-05-43](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20180928-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20181001-03-48](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20181001-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20181002-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20181002-09-25](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:master-20181003-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
 [gcr.io/istio-release/pilot:master-pre20180424-05-47](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
@@ -1614,6 +1647,18 @@
 [gcr.io/istio-release/pilot:release-1.0-20180927-21-10](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
+[gcr.io/istio-release/pilot:release-1.0-20180930-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:release-1.0-20181001-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:release-1.0-20181002-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:release-1.0-20181003-09-15](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
 [gcr.io/istio-release/pilot:rkpagadala-test14](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
@@ -1621,6 +1666,33 @@
 
 
 [gcr.io/istio-release/pilot:rkpagadala-test22](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test30](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test33](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test34](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test35](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test36](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test38](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test40](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test44](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
+
+
+[gcr.io/istio-release/pilot:rkpagadala-test45](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)
 
 
 [gcr.io/istio-release/pilot:rkpagadala-test5](https://hub.docker.com/r/anjia0532/istio-release.pilot/tags/)

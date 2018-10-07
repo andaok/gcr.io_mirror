@@ -3,6 +3,15 @@
 -----
 
 
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-5f7b808-254-f24b](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-71e436c-253-0544](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-e4e718d-252-c450](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-fac8eff-251-af42](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 

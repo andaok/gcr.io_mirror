@@ -1,3 +1,14 @@
+## 2018-10-07 13:20 
+
+[gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180803-4ec73180](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.4.1-notebook-gpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180729-32b79ba9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.4.1-notebook-gpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180608-cc3566da](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.4.1-notebook-gpu/tags/)
+
+
 ## 2018-10-01 22:07 
 
 [gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180729-32b79ba9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.4.1-notebook-cpu/tags/)

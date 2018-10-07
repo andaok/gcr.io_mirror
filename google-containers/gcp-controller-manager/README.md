@@ -3,6 +3,9 @@
 -----
 
 
+[gcr.io/google-containers/gcp-controller-manager:1aa2dddbbc427899e0dd5f313829552c0892e247](https://hub.docker.com/r/anjia0532/google-containers.gcp-controller-manager/tags/)
+
+
 [gcr.io/google-containers/gcp-controller-manager:1edadd08fb75221f975961642cfde871dba8fe90](https://hub.docker.com/r/anjia0532/google-containers.gcp-controller-manager/tags/)
 
 

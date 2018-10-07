@@ -618,6 +618,12 @@
 [gcr.io/google-containers/kube-controller-manager-ppc64le:v1.9.11-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-controller-manager-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-controller-manager-ppc64le:v1.9.11](https://hub.docker.com/r/anjia0532/google-containers.kube-controller-manager-ppc64le/tags/)
+
+
+[gcr.io/google-containers/kube-controller-manager-ppc64le:v1.9.12-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-controller-manager-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kube-controller-manager-ppc64le:v1.9.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-controller-manager-ppc64le/tags/)
 
 
